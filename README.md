@@ -1,7 +1,7 @@
 Hi 👋 My name is Fernando Castro Reyes
 ======================================
 
-## Thank you for stopping by
+## 🙏 Thank you for stopping by:
 
 I'm a burgeoning data scientist/analyst with a rich background in finance and a deep passion for leveraging data to drive business innovation. Here's a bit about my journey and where I'm headed: 
 
@@ -17,7 +17,7 @@ I'm Currently enrolled in a specialized Business Analytics program, focusing on 
 ## 🛠 Skills and Projects
 My repositories, while still being updated, provide insight into the many skills that I have been aquiring in my graduate program and pinpoint some of the areas that I am interested in. Stay tuned while in incorporate my work with other programming languages like R and other skillsets like SQL, EXCEL, etc. 
 
-## 🌱 What I'm Looking Forward To
+## 🌱 What I'm Looking Forward To:
 I'm on a continuous learning journey, eager to expand my expertise in data science and analytics. My goal is to join an organization that places a high value on people and innovation—where I can contribute to impactful projects and grow alongside like-minded individuals.
 I will be working with Claritas AI for the next few months on an AI project that is potentially revolutionary in nature and I am so excited for this. 
 
