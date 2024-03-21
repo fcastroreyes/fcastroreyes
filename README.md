@@ -18,7 +18,8 @@ I'm Currently enrolled in a specialized Business Analytics program, focusing on 
 My repositories, while still being updated, provide insight into the many skills that I have been aquiring in my graduate program and pinpoint some of the areas that I am interested in. Stay tuned while in incorporate my work with other programming languages like R and other skillsets like SQL, EXCEL, etc. 
 
 ## 🌱 What I'm Looking Forward To
-I'm on a continuous learning journey, eager to expand my expertise in data science and analytics. My goal is to join an organization that places a high value on people and innovation—where I can contribute to impactful projects and grow alongside like-minded individuals. 
+I'm on a continuous learning journey, eager to expand my expertise in data science and analytics. My goal is to join an organization that places a high value on people and innovation—where I can contribute to impactful projects and grow alongside like-minded individuals.
+I will be working with Claritas AI for the next few months on an AI project that is potentially revolutionary in nature and I am so excited for this. 
 
 ## 📈 Why Data Science?
 I believe that at the heart of every successful business decision is a solid foundation of data analysis. My background is incredibly diverse, and I equate that with natural variablility in data which allows for pinpointing nuance and areas to exploit for the better. My passion for this field stems from the joy of uncovering insights that can transform business strategies and outcomes. It also stems from my need to improve my own life. Whether through predictive modeling, data visualization, or AI-driven solutions, I'm excited about the potential to drive meaningful change in the industry and what it is doing for my life. 
