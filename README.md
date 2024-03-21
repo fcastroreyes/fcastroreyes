@@ -1,7 +1,7 @@
 Hi 👋 My name is Fernando Castro Reyes
 ======================================
 
-# Welcome to my GitHub!
+## Thank you for stopping by
 
 I'm a burgeoning data scientist/analyst with a rich background in finance and a deep passion for leveraging data to drive business innovation. Here's a bit about my journey and where I'm headed: 
 
